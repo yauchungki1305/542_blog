@@ -1,0 +1,30 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this blog"
+  },
+  {
+    "objectID": "posts/welcome/index.html",
+    "href": "posts/welcome/index.html",
+    "title": "Welcome To My Blog",
+    "section": "",
+    "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
+  },
+  {
+    "objectID": "posts/post-with-code/index.html",
+    "href": "posts/post-with-code/index.html",
+    "title": "How does Data Science enhance professional volleyball players’ performance?",
+    "section": "",
+    "text": "Data Revolution on the volleyball court\nFor decades, the sound of a volleyball match was defined by the screech of sneakers on hardwood and the rhythmic thud of a ball being spiked. Success was attributed to the “eye” of a veteran coach, the raw athleticism of a leap, and the grit of “hard training.” But look closer at the sidelines of a professional or Olympic match today, and you will see a new player in the rotation: the data scientist.\nVolleyball is no longer a sport dominated solely by height and repetitive drills. We have entered an era where information is as critical as physical power. By leveraging data science, teams are moving away from the fallibility of human memory and intuition toward a more objective, evidence-based approach to coaching, player development, and tactical execution."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "542_blog",
+    "section": "",
+    "text": "How does Data Science enhance professional volleyball players’ performance?\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nJan 16, 2026\n\n\nHarry Yau\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome To My Blog\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nJan 13, 2026\n\n\nTristan O’Malley\n\n\n\n\n\nNo matching items"
+  }
+]
