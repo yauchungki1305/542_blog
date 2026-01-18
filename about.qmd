@@ -1,5 +1,5 @@
 ---
-title: "About"
+title: "Harry Yau"
 image: profile.jpg
 about:
   template: jolla
@@ -12,8 +12,9 @@ about:
       href: https://linkedin.com
     - icon: github
       text: Github
-      href: https://github.com
+      href: https://github.com/yauchungki1305
 
 ---
 
-About this blog
+My name is Harry, a MDS student in UBC.
+I love playing volleyball and music
