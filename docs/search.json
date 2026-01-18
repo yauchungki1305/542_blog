@@ -7,88 +7,18 @@
     "text": "My name is Harry, a MDS student in UBC. I love playing volleyball and music"
   },
   {
-    "objectID": "posts/welcome/index.html",
-    "href": "posts/welcome/index.html",
-    "title": "Welcome To My Blog",
-    "section": "",
-    "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
-  },
-  {
-    "objectID": "posts/post-with-code/index.html",
-    "href": "posts/post-with-code/index.html",
-    "title": "How does Data Science enhance professional volleyball players’ performance?",
-    "section": "",
-    "text": "For decades, the sound of a volleyball match was defined by the screech of sneakers on hardwood and the rhythmic thud of a ball being spiked. Success was attributed to the “eye” of a veteran coach, the raw athleticism of a leap, and the grit of “hard training.” But look closer at the sidelines of a professional or Olympic match today, and you will see a new player in the rotation: the data scientist.\nVolleyball is no longer a sport dominated solely by height and repetitive drills. We have entered an era where information is as critical as physical power. By leveraging data science, teams are moving away from the fallibility of human memory and intuition toward a more objective, evidence-based approach to coaching, player development, and tactical execution."
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "542_blog",
-    "section": "",
-    "text": "Winning the Numbers Game: The Data Revolution in Modern Volleyball\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nJan 16, 2026\n\n\nHarry Yau\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "posts/post-with-code/index.html#fitness-and-bio-metric-data",
-    "href": "posts/post-with-code/index.html#fitness-and-bio-metric-data",
-    "title": "How does Data Science enhance professional volleyball players’ performance?",
-    "section": "Fitness and Bio-Metric Data",
-    "text": "Fitness and Bio-Metric Data\nBeyond the skills themselves, the “engine” of the player is constantly monitored. Modern players often wear GPS trackers or inertial measurement units (IMUs) that track:\n\nJump Height and Frequency: Exactly how many times a middle blocker jumped and the average height of those leaps.\nPower Output: The explosive force generated during a serve.\nStamina and Recovery: How quickly a player’s heart rate returns to baseline during a timeout or between sets.\n\nBy replacing “gut feelings” with these metrics, coaches can identify patterns that were previously invisible. Data might reveal that a star hitter’s efficiency drops by 15% after their 30th jump, or that a specific rotation performs significantly better against left-handed opponents."
-  },
-  {
-    "objectID": "posts/post-with-code/index.html#strengths-and-weaknesses-under-the-microscope",
-    "href": "posts/post-with-code/index.html#strengths-and-weaknesses-under-the-microscope",
-    "title": "How does Data Science enhance professional volleyball players’ performance?",
-    "section": "Strengths and Weaknesses Under the Microscope",
-    "text": "Strengths and Weaknesses Under the Microscope\nBy tracking data over a long period, analysts can create a comprehensive profile of a player’s technical evolution. Perhaps a player is elite at attacking from “Position 4” but struggles when forced to transition into a defensive play in “Position 6.” Without data, a coach might simply feel the player is “having an off day.” With data, the coach can see a statistical trend."
-  },
-  {
-    "objectID": "posts/post-with-code/index.html#tailor-made-training-ecosystems",
-    "href": "posts/post-with-code/index.html#tailor-made-training-ecosystems",
-    "title": "How does Data Science enhance professional volleyball players’ performance?",
-    "section": "Tailor-Made Training Ecosystems",
-    "text": "Tailor-Made Training Ecosystems\nThis insight allows for the creation of personalized training plans. If the data shows a player’s vertical leap is decreasing late in matches, their program will shift toward localized muscular endurance and explosive weight training. If their serve-receive passing is statistically weak against high-velocity “float” serves, their skill practice will be recalibrated to focus on that specific technical deficiency. This makes improvement not just faster, but more permanent."
-  },
-  {
-    "objectID": "posts/post-with-code/index.html#monitoring-the-load",
-    "href": "posts/post-with-code/index.html#monitoring-the-load",
-    "title": "How does Data Science enhance professional volleyball players’ performance?",
-    "section": "Monitoring the Load",
-    "text": "Monitoring the Load\nOne of the most revolutionary aspects of data science in volleyball is Workload Management. By calculating the “Acute:Chronic Workload Ratio,” teams can identify when a player is entering a “danger zone” for injury. If a player’s training load in the current week is significantly higher than their average over the last month, the data flags them for a “deload” period. Increasing recovery time based on data, rather than waiting for a player to say they are “sore,” can prevent catastrophic ligament tears or stress fractures."
-  },
-  {
-    "objectID": "posts/post-with-code/index.html#ergonomic-adjustments",
-    "href": "posts/post-with-code/index.html#ergonomic-adjustments",
-    "title": "How does Data Science enhance professional volleyball players’ performance?",
-    "section": "Ergonomic Adjustments",
-    "text": "Ergonomic Adjustments\nMotion capture technology allows trainers to analyze a player’s biomechanics in 3D. If a player is landing in a way that puts excessive stress on their ACL, or if their arm swing is creating a shoulder impingement, the data provides the “why.” Trainers can then adjust the player’s ergonomics—changing their footwork or their swing path—to reduce physical stress. This doesn’t just keep players on the court; it extends their competitive careers by years."
-  },
-  {
-    "objectID": "posts/post-with-code/index.html#the-chemistry-equation",
-    "href": "posts/post-with-code/index.html#the-chemistry-equation",
-    "title": "How does Data Science enhance professional volleyball players’ performance?",
-    "section": "The Chemistry Equation",
-    "text": "The Chemistry Equation\nWe often talk about “team chemistry,” but data science allows us to quantify it. Analysts can evaluate different lineups to see which combination of six players has the highest side-out percentage. They might discover that two players who aren’t the strongest individually have a “synergy” that makes the team’s defense nearly impenetrable when they are on the court together."
-  },
-  {
-    "objectID": "posts/post-with-code/index.html#tactical-scouting-and-in-game-adjustments",
-    "href": "posts/post-with-code/index.html#tactical-scouting-and-in-game-adjustments",
-    "title": "How does Data Science enhance professional volleyball players’ performance?",
-    "section": "Tactical Scouting and In-Game Adjustments",
-    "text": "Tactical Scouting and In-Game Adjustments\nBefore a match even begins, data science provides a blueprint of the opponent. Coaches know exactly where an opposing setter is most likely to dump the ball on a “perfect” pass versus an “out-of-system” play. During the game, coaches use tablets to track real-time statistics, allowing them to make adjustments—like shifting the defensive line two feet to the left—based on the current hitting patterns of the opponent."
-  },
-  {
-    "objectID": "posts/post-with-code/index.html#conclusion-reaching-the-full-potential",
-    "href": "posts/post-with-code/index.html#conclusion-reaching-the-full-potential",
-    "title": "How does Data Science enhance professional volleyball players’ performance?",
-    "section": "Conclusion: Reaching the Full Potential",
-    "text": "Conclusion: Reaching the Full Potential\nThe rise of data science in volleyball represents the professionalization of every second spent on the court. By turning abstract performance into clear, actionable insights, players and teams are training smarter rather than just harder. They are reducing the “luck” factor by preparing for every eventuality and protecting their most valuable assets—the players—through scientific monitoring.\nAs technology continues to evolve—with AI-powered predictive modeling and more advanced wearables—the role of data will only grow. In the modern game, the teams that reach their full potential won’t just be the ones with the tallest players or the hardest hitters; they will be the ones who best understand the numbers behind the game."
-  },
-  {
     "objectID": "posts/data_volleyball/index.html",
     "href": "posts/data_volleyball/index.html",
     "title": "Winning the Numbers Game: The Data Revolution in Modern Volleyball",
     "section": "",
     "text": "For decades, the sound of a volleyball match was defined by the screech of sneakers on wood and the rhythmic “boom” of a ball being spiked. Success is an attributed to the “eye” of a traditional coach, the raw athleticism of a leap, and ability of taking hard training as daily mission. But look closer at the sidelines of a professional or Olympic match today, and you will see a new player in the rotation: the data scientist.\nVolleyball is no longer a sport only dominated by people with the best physical gift. We have entered an era where information is as critical as physical power. By contributing data science into volleyball, teams are moving away from the fallibility of human memory and intuition toward a more objective, evidence-based approach to coaching, player development, and tactical execution. More and more potential players are now being introduce to the world."
+  },
+  {
+    "objectID": "posts/data_volleyball/index.html#fundamental-skill-statistics",
+    "href": "posts/data_volleyball/index.html#fundamental-skill-statistics",
+    "title": "Winning the Numbers Game: The Data Revolution in Modern Volleyball",
+    "section": "Fundamental Skill Statistics",
+    "text": "Fundamental Skill Statistics\nAt the most basic level, data science captures the technique statistic of the game. Every serve, spike, block, and pass is digitized. However, data science goes beyond simple counting. It looks at these actions and provide analysis. For example, it’s not just about how many spikes a player made, but their “kill percentage” relative to the quality of the set they received and the specific defensive formation they faced."
   },
   {
     "objectID": "posts/data_volleyball/index.html#fitness-and-bio-metric-data",
@@ -105,55 +35,6 @@
     "text": "Strengths and Weaknesses Under the Microscope\nBy tracking data over a long period, analysts can create a comprehensive profile of a player’s technical evolution. Perhaps A player is outstanding at attacking in the front row but struggles when forced to transition into a defensive play in back row. Without data, a coach might simply feel the player is “having an off day.” With data, the coach can see a statistical pattern."
   },
   {
-    "objectID": "posts/data_volleyball/index.html#tailor-made-training-ecosystems",
-    "href": "posts/data_volleyball/index.html#tailor-made-training-ecosystems",
-    "title": "Winning the Numbers Game: The Data Revolution in Modern Volleyball",
-    "section": "Tailor-Made Training Ecosystems",
-    "text": "Tailor-Made Training Ecosystems\nThis insight allows for the creation of personalized training plans. If the data shows a player’s vertical leap is decreasing late in matches, their program will shift toward localized muscular endurance and explosive weight training. If their serve-receive passing is statistically weak against high-velocity “float” serves, their skill practice will be more focus on the specific technical skills. This makes improvement not just faster, but also permanent to players."
-  },
-  {
-    "objectID": "posts/data_volleyball/index.html#monitoring-the-load",
-    "href": "posts/data_volleyball/index.html#monitoring-the-load",
-    "title": "Winning the Numbers Game: The Data Revolution in Modern Volleyball",
-    "section": "Monitoring the Load",
-    "text": "Monitoring the Load\nOne of the most revolutionary aspects of data science in volleyball is Workload Management. By calculating the “Acute:Chronic Workload Ratio,” teams can identify when a player is entering a “danger zone” for injury. If a player’s training load in the current week is significantly higher than their average over the last month, the data flags them for a “deload” period. Increasing recovery time based on data, rather than waiting for a player to say they are “sore,” can prevent catastrophic ligament tears or stress fractures."
-  },
-  {
-    "objectID": "posts/data_volleyball/index.html#ergonomic-adjustments",
-    "href": "posts/data_volleyball/index.html#ergonomic-adjustments",
-    "title": "Winning the Numbers Game: The Data Revolution in Modern Volleyball",
-    "section": "Ergonomic Adjustments",
-    "text": "Ergonomic Adjustments\nMotion capture technology allows trainers to analyze a player’s biomechanics in 3D. If a player is landing in a way that puts excessive stress on their cross-tenden, or if their arm swing is creating a shoulder impingement, the data provides the reasons. Trainers can then adjust the player’s ergonomics, changing their landing posture or their swing path to reduce physical stress. This doesn’t just keep players on the court; it extends their competitive careers by years."
-  },
-  {
-    "objectID": "posts/data_volleyball/index.html#the-chemistry-equation",
-    "href": "posts/data_volleyball/index.html#the-chemistry-equation",
-    "title": "Winning the Numbers Game: The Data Revolution in Modern Volleyball",
-    "section": "The Chemistry Equation",
-    "text": "The Chemistry Equation\nWe often talk about “team chemistry,” but data science allows us to quantify it. Analysts can evaluate different lineups to see which combination of six players has the highest side-out percentage. They might discover that two players who aren’t the strongest individually have a “synergy” that makes the team’s defense nearly impenetrable when they are on the court together."
-  },
-  {
-    "objectID": "posts/data_volleyball/index.html#tactical-scouting-and-in-game-adjustments",
-    "href": "posts/data_volleyball/index.html#tactical-scouting-and-in-game-adjustments",
-    "title": "Winning the Numbers Game: The Data Revolution in Modern Volleyball",
-    "section": "Tactical Scouting and In-Game Adjustments",
-    "text": "Tactical Scouting and In-Game Adjustments\nBefore a match even begins, data science provides a blueprint of the opponent. Coaches know exactly where an opposing setter is most likely to dump the ball on a “perfect” pass versus an “out-of-system” play. During the game, coaches use tablets to track real-time statistics, allowing them to make adjustments, shifting the defensive line two feet to the left—based on the current hitting patterns of the opponent."
-  },
-  {
-    "objectID": "posts/data_volleyball/index.html#conclusion-reaching-the-full-potential",
-    "href": "posts/data_volleyball/index.html#conclusion-reaching-the-full-potential",
-    "title": "Winning the Numbers Game: The Data Revolution in Modern Volleyball",
-    "section": "Conclusion: Reaching the Full Potential",
-    "text": "Conclusion: Reaching the Full Potential\nThe rise of data science in volleyball represents the professionalization of every second spent on the court. By turning abstract performance into clear, actionable insights, players and teams are training smarter rather than just harder. They are reducing the “luck” factor by preparing for every eventuality and protecting their most valuable assets—the players—through scientific monitoring.\nAs technology continues to evolve—with AI-powered predictive modeling and more advanced wearables—the role of data will only grow. In the modern game, the teams that reach their full potential won’t just be the ones with the tallest players or the hardest hitters; they will be the ones who best understand the numbers behind the game."
-  },
-  {
-    "objectID": "posts/data_volleyball/index.html#fundamental-skill-statistics",
-    "href": "posts/data_volleyball/index.html#fundamental-skill-statistics",
-    "title": "Winning the Numbers Game: The Data Revolution in Modern Volleyball",
-    "section": "Fundamental Skill Statistics",
-    "text": "Fundamental Skill Statistics\nAt the most basic level, data science captures the technique statistic of the game. Every serve, spike, block, and pass is digitized. However, data science goes beyond simple counting. It looks at these actions and provide analysis. For example, it’s not just about how many spikes a player made, but their “kill percentage” relative to the quality of the set they received and the specific defensive formation they faced."
-  },
-  {
     "objectID": "posts/data_volleyball/index.html#tailor-made-training-cycle",
     "href": "posts/data_volleyball/index.html#tailor-made-training-cycle",
     "title": "Winning the Numbers Game: The Data Revolution in Modern Volleyball",
@@ -168,6 +49,13 @@
     "text": "Stop Overloading\nOne of the most revolutionary aspects of data science in volleyball is Workload Management. By calculating the Acute:Chronic Workload Ratio (ACWR), teams can identify when a player is entering a “danger zone” for injury. If a player’s training load in the current week is significantly higher than their average over the last month, the data flags them for a “deload” period and decrease the load of training. Increasing recovery time based on data rather than waiting for a player to subjective feeling. This can prevent catastrophic ligament tears or stress fractures."
   },
   {
+    "objectID": "posts/data_volleyball/index.html#ergonomic-adjustments",
+    "href": "posts/data_volleyball/index.html#ergonomic-adjustments",
+    "title": "Winning the Numbers Game: The Data Revolution in Modern Volleyball",
+    "section": "Ergonomic Adjustments",
+    "text": "Ergonomic Adjustments\nMotion capture technology allows trainers to analyze a player’s biomechanics in 3D. If a player is landing in a way that puts excessive stress on their cross-tenden, or if their arm swing is creating a shoulder impingement, the data provides the reasons. Trainers can then adjust the player’s ergonomics, changing their landing posture or their swing path to reduce physical stress. This doesn’t just keep players on the court; it extends their competitive careers by years."
+  },
+  {
     "objectID": "posts/data_volleyball/index.html#the-chemistry",
     "href": "posts/data_volleyball/index.html#the-chemistry",
     "title": "Winning the Numbers Game: The Data Revolution in Modern Volleyball",
@@ -175,10 +63,24 @@
     "text": "The Chemistry\nWe often talk about “team chemistry,” but data science allows us to quantify it. Analysts can evaluate different lineups to see which combination of six players has the highest percentage to run a better play. They might discover that two players who aren’t the strongest individually have a better chemistry that makes the team’s defense nearly impenetrable when they are on the court together."
   },
   {
+    "objectID": "posts/data_volleyball/index.html#tactical-scouting-and-in-game-adjustments",
+    "href": "posts/data_volleyball/index.html#tactical-scouting-and-in-game-adjustments",
+    "title": "Winning the Numbers Game: The Data Revolution in Modern Volleyball",
+    "section": "Tactical Scouting and In-Game Adjustments",
+    "text": "Tactical Scouting and In-Game Adjustments\nBefore a match even begins, data science provides a blueprint of the opponent. Coaches know exactly where an opposing setter is most likely to dump the ball on a “perfect” pass versus an “out-of-system” play. During the game, coaches use tablets to track real-time statistics, allowing them to make adjustments, shifting the defensive line two feet to the left—based on the current hitting patterns of the opponent."
+  },
+  {
     "objectID": "posts/data_volleyball/index.html#conclusion-unlock-the-full-potential",
     "href": "posts/data_volleyball/index.html#conclusion-unlock-the-full-potential",
     "title": "Winning the Numbers Game: The Data Revolution in Modern Volleyball",
     "section": "Conclusion: Unlock the Full Potential",
     "text": "Conclusion: Unlock the Full Potential\nThe rise of data science in volleyball represents the professionalization of every second spent on the court. By turning abstract performance into clear, actionable insights, players and teams are training smarter rather than just harder. They are reducing the “luck” factor by preparing for every eventuality and protecting their most valuable assets, the players, through scientific monitoring.\nAs technology continues to evolve—with AI-powered predictive modeling and more advanced wearables, the role of data will only grow. In the modern game, the teams that reach their full potential won’t just be the ones with the tallest players or the hardest hitters; they will be the ones who best understand the numbers behind the game."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "542_blog",
+    "section": "",
+    "text": "Winning the Numbers Game: The Data Revolution in Modern Volleyball\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nJan 16, 2026\n\n\nHarry Yau\n\n\n\n\n\nNo matching items"
   }
 ]
